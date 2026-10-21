@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "formulaic-contrasts",
+  "versions": [
+    {
+      "commit": "180d601657c84734778dd69caaa06573fea9c63b",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:21:30.842027+00:00"
+    }
+  ]
+}
