@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/formulaic-contrasts/commit/180d601657c84734778dd69caaa06573fea9c63b",
       "git:hexsha": "180d601657c84734778dd69caaa06573fea9c63b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:21:30.841525+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scverse/formulaic-contrasts/commit/66cd05fc7851205626c4dbfed98737e4898d7a75",
